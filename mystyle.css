@@ -1,0 +1,11 @@
+body {background-color: lightgrey;}
+
+h1 {
+color: black;
+text-align: center;
+  font-size: 500%;
+}
+
+.w3-button {width:150px;
+  text-align: center;
+}
